@@ -1,2 +1,4 @@
 # JavaScriptUdemy
-Learn Java Script and TypeScript 
+Aprendendo Java Script e TypeScript 
+
+
