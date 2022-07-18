@@ -1,12 +1,3 @@
-<style>
-    .flex {
-        display:flex
-    }
-    .m2 {
-        margin-left:0.835rem;
-    }
-</style>
-
 # JavaScriptUdemy
 Aprendendo Java Script e TypeScript 
 
